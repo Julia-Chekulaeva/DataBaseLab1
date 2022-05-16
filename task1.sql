@@ -215,15 +215,3 @@ INSERT INTO menu_orders (food_id, amount, bill_id) VALUES
 
 INSERT INTO event_orders (event_id, start_time, bill_id) VALUES
 (1, '9:30:00', 1);
-
---SELECT * FROM addresses;
---SELECT * FROM waiters;
---SELECT * FROM visiters;
---SELECT * FROM discount_cards;
---SELECT * FROM halls;
---SELECT * FROM events;
---SELECT * FROM menu;
---SELECT * FROM bookings;
---SELECT * FROM billing;
---SELECT * FROM menu_orders;
---SELECT * FROM event_orders;
